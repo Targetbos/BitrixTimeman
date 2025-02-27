@@ -1,8 +1,9 @@
 # BitrixTimeman
+
 ```json
 {
-  "id": Int, // ID Пользователя
-  "user_name": String, // Имя Фамилия пользователя
+	"id": Int, // ID Пользователя
+	"user_name": String, // Имя Фамилия пользователя
 	"work_day_info": { 
 		"day_start": Date, // Дата и время начала рабочего дня в формате АТОМ
 		"day_finish": Date, // Дата и время окончания рабочего дня в формате АТОМ
