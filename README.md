@@ -1,4 +1,10 @@
 # BitrixTimeman
+Для вебхука нужно выдать следующие разрешения:
+- user
+- timeman
+- crm
+- calendar
+
 Ответ с ошибкой 
 400 код
 ```json
